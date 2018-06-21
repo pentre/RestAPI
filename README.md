@@ -17,3 +17,9 @@ Build the program with
 ```
 go build main.go app.go model.go
 ```
+
+### Contact:
+
+Juan Camilo Pérez  
+313 7229841  
+juan.perez.munoz@correounivalle.edu.co
